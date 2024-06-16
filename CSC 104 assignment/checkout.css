@@ -1,0 +1,147 @@
+body{
+    background: linear-gradient(to right, rgb(103, 0, 163), rgb(173, 0, 179));
+}
+.checkout{
+    text-transform: uppercase;
+    color: white;
+    padding-left: 600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-1{
+   margin-left: 20px;
+   background-color: rgb(233, 233, 233);
+   border-radius: 20px;
+   height: 150px;
+   width: 350px;
+   justify-content: center;
+}
+.pay{
+    color: black;
+    border-radius: 10px;
+    background-color: rgb(233, 233, 233);
+    height: 50px;
+    width: 450px;
+    font-family: sans-serif;
+}
+.pay:hover{
+    background-color: rgb(34, 0, 88);
+}
+
+
+.payy{
+    padding-left: 450px;
+    padding-top: 280px;
+}
+.payy button{
+    width: 500px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+.payy button a{
+    text-decoration: none;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
+.payy button:hover{
+    background-color: pink;
+}
+.delivery{
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+.deli{
+    padding-top: 10px;
+}
+.opay{
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.container-2{
+    margin-top: 50px;
+    margin-left: 5px;
+    background-color: rgb(233, 233, 233);
+    border-radius: 20px;
+    height: 100px;
+    width: 350px;
+    justify-content: center;
+ }
+ .pr{
+    padding-top: 3px;
+ }
+ .prom{
+    padding-left: 10px;
+    font-family: sans-serif;
+
+}
+.container-3{
+    margin-top: 50px;
+    margin-left: 5px;
+    background-color: rgb(233, 233, 233);
+    border-radius: 20px;
+    height: 100px;
+    width: 350px;
+    justify-content: center;
+}
+.container-3 input [type="Email"]{
+    padding-bottom: 10px;
+    font-size: 18px;
+    width: 400;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.container-3 button{
+    position: absolute;
+    right: 10;
+    top: 5;
+    padding: 4px 2px;
+    font-size: 18px;
+    background-color: #000000;
+    color: fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.container-3 button:hover{
+    background-color: rgb(34, 0, 88);
+}
+.email{
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+.container-1 input[type="country"]{
+    padding-bottom: 8px;
+    font-size: 18px;
+    width: 40;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.container-2 input[type="voucher"]{
+    padding-bottom: 5px;
+    font-size: 18px;
+    width: 40;
+    height: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.container-4{
+    margin: -500px;
+    background-color: white;
+    margin-left: 800px;
+    height: 250px;
+    width: 400px;
+}
+.but{
+    margin-bottom: 30px;
+}
+.items{
+    float: right;
+    
+}
+
